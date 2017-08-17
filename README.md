@@ -1,2 +1,2 @@
 # SuperClossy
-A mobile game about blocks for iOS devices. Available on the Appstore
+SuperClossy - addicting iOS game about closing blocks. Available on the Appstore
